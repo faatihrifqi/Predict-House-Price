@@ -1,2 +1,2 @@
 # Predict-House-Price
-Berikut merupakan soal UTS pada pelatihan Machine Learning DIGITALENT Kominfo yang di adakan di Universitas Telkom.
+King County adalah sebuah county (kabupaten) di USA yang terletak di negara bagian Washington DC. King County adalah salah satu dari tiga county Washington yang termasuk dalam area metropolitan Seattle-Tacoma-Bellevue. Pada 2011, King County adalah county berpenghasilan tertinggi ke-86 di Amerika Serikat. King County memiliki bangunan rumah yang memiliki beberapa fitur utama, seperti: jumlah kamar tidur, jumlah kamar mandi, luas area rumah, dll. Tentu fitur-fitur utama tersebut akan mempengaruhi harga rumah tersebut. Survey dilakukan dan datanya, termasuk harga, dikumpulkan dan tersimpan dalam sebuah dataset.
